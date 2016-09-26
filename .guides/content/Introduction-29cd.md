@@ -8,7 +8,7 @@ This method involves hackers watching and detecting all of the packets that ente
 
 ### Active attack
 
-An active attack can be easily detected as the hacker will normally be using aggressive methods such as malware and several other viruses. Firewall and up to date anti-virus software can help prevent against this type of threat.
+An active attack can be easily detected as the hacker will normally be using aggressive methods such as malware and several other viruses. Firewalls and up to date anti-virus software can help prevent against this type of threat.
 
 ### Insider attack
 
@@ -20,4 +20,4 @@ This form of attack involves using brute force to try and access a network. This
 
 ### Denial-of-service attack
 
-DOS attacks prevent the user from using a website or network. Useless packets of data are sent around the network to slow down the traffic of other users. If enough packets flood the network then it could eventually shut down the network. Because the packets that are flooding the network are actually valid packets the firewall usually lets them through. However Firewalls can be configured to block IP addresses that are sending vast amounts of packets. Another
+DOS attacks prevent the user from using a website or network. Useless packets of data are sent around the network to slow down the traffic of other users. If enough packets flood the network then it could eventually shut down the network. Because the packets that are flooding the network are actually valid packets the firewall usually lets them through. However Firewalls can be configured to block IP addresses that are sending vast amounts of packets.
