@@ -1,0 +1,2 @@
+In this lesson we will look at the methods criminals use to attack networks in order to steal data and information or to disrupt the work of the organisations.
+These attacks pose major threats to organisations but often the greater threat is the lack of vigilance by the people who work for it. Many organisations do not have policies in place to deal with these threats.

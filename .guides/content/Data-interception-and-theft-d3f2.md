@@ -1,1 +1,0 @@
-This is a passive attack that is used to intercept packets of data that are being transmitted from one device to another. These packets of data could form a bank transaction that if stolen could cause a customer to lose a lot of money. Attackers use pieces of software called packet sniffers to alert when any packets may contain sensitive data that can be used by the attacker.

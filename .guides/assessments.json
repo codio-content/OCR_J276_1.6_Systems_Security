@@ -1,0 +1,65 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1786710872",
+  "source": {
+   "name": "Question 1",
+   "showName": false,
+   "instructions": "**Select the correct name for each description.**",
+   "points": "1",
+   "showValues": true,
+   "text": "The input of fake commands to gain access to a website database: <<<SQL injection>>>\n\nPhoning someone and attempting to find out personal and security information by inventing a fake scenario: <<<Blagging>>>\n\nUsing automated software to generate and try millions of login names and passwords: <<<Brute force attack>>>\n\nSoftware designed to gain unauthorised access to a computer system in order to disrupt its functioning: <<<Malware>>>",
+   "tokens": {
+    "blank": [
+     "SQL injection",
+     "Blagging",
+     "Brute force attack",
+     "Malware"
+    ],
+    "text": [
+     "The input of fake commands to gain access to a website database: ",
+     0,
+     "\n\nPhoning someone and attempting to find out personal and security information by inventing a fake scenario: ",
+     0,
+     "\n\nUsing automated software to generate and try millions of login names and passwords: ",
+     0,
+     "\n\nSoftware designed to gain unauthorised access to a computer system in order to disrupt its functioning: ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-840887343",
+  "source": {
+   "name": "Question 2",
+   "showName": false,
+   "instructions": "**Select the correct name for each description.**",
+   "points": "1",
+   "showValues": true,
+   "text": "Using packet sniffers to intercept data packets on a network: <<<Data interception and theft>>>\n\nSending emails claiming to be from a bank or e-commerce site in order to find out your personal and financial details: <<<Phishing>>>\n\nSoftware that can create ‘back doors’ to computer systems so allowing criminals to access personal data: <<<Trojan>>>\n\nFinding out a person’s password or PIN by watching them enter it on a keypad: <<<Shouldering>>>\n\nPsychologically tricking people into divulging their secret information: <<<Social engineering>>>",
+   "tokens": {
+    "blank": [
+     "Data interception and theft",
+     "Phishing",
+     "Trojan",
+     "Shouldering",
+     "Social engineering"
+    ],
+    "text": [
+     "Using packet sniffers to intercept data packets on a network: ",
+     0,
+     "\n\nSending emails claiming to be from a bank or e-commerce site in order to find out your personal and financial details: ",
+     0,
+     "\n\nSoftware that can create ‘back doors’ to computer systems so allowing criminals to access personal data: ",
+     0,
+     "\n\nFinding out a person’s password or PIN by watching them enter it on a keypad: ",
+     0,
+     "\n\nPsychologically tricking people into divulging their secret information: ",
+     0
+    ]
+   }
+  }
+ }
+]
